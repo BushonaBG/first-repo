@@ -1,0 +1,7 @@
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\bin\Debug\Zadacha1.exe.config
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\bin\Debug\Zadacha1.exe
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\bin\Debug\Zadacha1.pdb
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\obj\Debug\Zadacha1.csprojAssemblyReference.cache
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\obj\Debug\Zadacha1.exe
+C:\Users\PC-MM\Documents\Visual Studio 2019\10.02.2021\10.02.2021\obj\Debug\Zadacha1.pdb
