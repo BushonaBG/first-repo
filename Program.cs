@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Domashno_27._09
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Въведете десетично число");
-            int chislo = int.Parse(Console.ReadLine());
-            string dvuichno = Convert.ToString(chislo,2);
-            Console.WriteLine("Двуичното число е: {0}",dvuichno);
+            string chislo = "18";
+            int desetichno = Convert.ToInt32(chislo, 16);
+            string dvuichno = Convert.ToString(desetichno, 2);
+            Console.WriteLine(dvuichno);
         }
     }
 }
